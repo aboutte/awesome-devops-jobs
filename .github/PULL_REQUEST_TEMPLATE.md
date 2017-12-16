@@ -1,4 +1,4 @@
-## What is this Awesome project?
+## What is this Awesome Devops job?
 
 # COMPANY NAME
 
@@ -25,4 +25,4 @@
 
 --
 
-Anyone who agrees with this pull request could vote for it by adding a :+1: to it, and usually, the maintainer will merge it when votes reach **20**.
+Anyone who agrees with this pull request can vote for it by adding a :+1: to it, and usually, the maintainer will merge it when votes reach **20**.
