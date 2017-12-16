@@ -6,11 +6,11 @@ A curated list of awesome DevOps jobs
 
 | Name | Website | Region | Remote |
 |------|---------|--------|--------|
-[TEMPLATE](/company-profiles/TEMPLATE.md) | https://www.example.com | USA | Y
 | Contino |www.contino.io||||
 | Xentaurs | https://www.xentaurs.com ||||
 | CloudBees | https://www.cloudbees.com |||
 | MINDBODY | https://www.mindbodyonline.com/ | International ||
+| [TEMPLATE](/company-profiles/TEMPLATE.md) | https://www.example.com | USA | Y
 
 
 # Job Sources
