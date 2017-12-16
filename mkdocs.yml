@@ -17,7 +17,7 @@ extra:
     - type: 'linkedin'
       link: 'https://www.linkedin.com/in/aboutte'
 google_analytics:
-  - 'UA-510626-7'
+  - 'UA-111280757-1'
   - 'auto'
 pages:
   - "Life is short, you need DevOps.": "index.md"
