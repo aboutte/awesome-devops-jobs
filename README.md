@@ -13,9 +13,9 @@ A curated list of awesome DevOps jobs
 
 
 # Job Sources
-https://www.indeed.com/q-Devops-jobs.html
-https://www.monster.com/jobs/q-devops-engineer-jobs.aspx
-https://www.glassdoor.com/Job/devops-engineer-jobs-SRCH_KO0,15.htm
-https://stackoverflow.com/jobs/devops-jobs
-https://www.linkedin.com/jobs/devops-jobs/
-http://www.recruit.net/search-devops-engineer-jobs
+- https://www.indeed.com/q-Devops-jobs.html
+- https://www.monster.com/jobs/q-devops-engineer-jobs.aspx
+- https://www.glassdoor.com/Job/devops-engineer-jobs-SRCH_KO0,15.htm
+- https://stackoverflow.com/jobs/devops-jobs
+- https://www.linkedin.com/jobs/devops-jobs/
+- http://www.recruit.net/search-devops-engineer-jobs
