@@ -2,8 +2,9 @@ site_name: 'Awesome DevOps Jobs'
 site_url: 'https://awesome-devops-jobs.com'
 site_description: 'A curated list of awesome DevOps Jobs'
 site_author: 'Andy Boutte'
-repo_name: 'aboutte/awesome-devops-jobs'
+repo_name: 'awesome-devops-jobs'
 repo_url: 'https://github.com/aboutte/awesome-devops-jobs'
+remote_name: 'mine'
 theme: 'material'
 extra:
   feature:
