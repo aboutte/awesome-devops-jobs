@@ -18,7 +18,7 @@ A curated list of awesome DevOps jobs
 |Hudson River Trading| [http://www.hudson-trading.com/](http://www.hudson-trading.com/) | | |
 |Intellinet Corporation| [https://www.intellinet.com/](https://www.intellinet.com/) | | |
 |Job Juncture| [http://www.jobjuncture.com/](http://www.jobjuncture.com/) | | |
-|Looker| [https://looker.com/](https://looker.com/) | International | :-1: |
+|Looker| [https://looker.com/](https://looker.com/) | International | N |
 |MINDBODY| [https://www.mindbodyonline.com/](https://www.mindbodyonline.com/) | International ||
 |O3 World| [http://www.o3world.com/](http://www.o3world.com/) | US East Coast ||
 |Object Partners| [https://objectpartners.com/](https://objectpartners.com/) | | |
@@ -26,7 +26,7 @@ A curated list of awesome DevOps jobs
 |Paxata| [https://www.paxata.com/](https://www.paxata.com/) ||||
 |Principle Solutions Group| [http://www.principlesolutions.com/](http://www.principlesolutions.com/) |||
 |Qubole, Inc.| [https://www.qubole.com/](https://www.qubole.com/) | | |
-|REAN Cloud| [https://www.reancloud.com/](https://www.reancloud.com/) | International | :+1: |
+|REAN Cloud| [https://www.reancloud.com/](https://www.reancloud.com/) | International | Y |
 |Spreetail| [http://www.spreetail.com/](http://www.spreetail.com/) | US Midwest||
 |Teachers Pay Teachers| [https://www.teacherspayteachers.com/](https://www.teacherspayteachers.com/) | | |
 |TokBox| [https://tokbox.com/](https://tokbox.com/) | | |
