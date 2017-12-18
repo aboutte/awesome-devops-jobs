@@ -1,6 +1,6 @@
 site_name: 'Awesome DevOps Jobs'
 site_url: 'https://awesome-devops-jobs.com'
-site_description: 'A curated list of awesome DevOps Jobs'
+site_description: 'A curated list of Awesome DevOps Jobs'
 site_author: 'Andy Boutte'
 repo_name: 'awesome-devops-jobs'
 repo_url: 'https://github.com/aboutte/awesome-devops-jobs'
@@ -21,4 +21,5 @@ google_analytics:
   - 'UA-111280757-1'
   - 'auto'
 pages:
-  - "Life is short, you need DevOps.": "index.md"
+  - "Home": "index.md"
+  - "Contribute": "contribute.md"
