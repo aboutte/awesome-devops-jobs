@@ -2,18 +2,28 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Awesome DevOps Jobs\n\n\n\n\nA curated list of awesome DevOps jobs\n\n\n\n\n\n\n\n\nName\n\n\nWebsite\n\n\nRegion\n\n\nRemote\n\n\n\n\n\n\n\n\n\n\nContino\n\n\nwww.contino.io\n\n\n\n\n\n\n\n\n\n\nXentaurs\n\n\nhttps://www.xentaurs.com\n\n\n\n\n\n\n\n\n\n\nCloudBees\n\n\nhttps://www.cloudbees.com\n\n\n\n\n\n\n\n\n\n\nMINDBODY\n\n\nhttps://www.mindbodyonline.com/\n\n\nInternational\n\n\n\n\n\n\n\n\nTEMPLATE\n\n\nhttps://www.example.com\n\n\nUSA\n\n\nY\n\n\n\n\n\n\n\n\nJob Sources\n\n\n\n\nhttps://www.indeed.com/q-Devops-jobs.html\n\n\nhttps://www.monster.com/jobs/q-devops-engineer-jobs.aspx\n\n\nhttps://www.glassdoor.com/Job/devops-engineer-jobs-SRCH_KO0,15.htm\n\n\nhttps://stackoverflow.com/jobs/devops-jobs\n\n\nhttps://www.linkedin.com/jobs/devops-jobs\n\n\nhttp://www.recruit.net/search-devops-engineer-jobs", 
-            "title": "Life is short, you need DevOps."
+            "text": "Awesome DevOps Jobs \n\n\nA curated list of awesome DevOps jobs\n\n\n\n\n\n\n\n\nName\n\n\nWebsite\n\n\nRegion\n\n\nRemote\n\n\n\n\n\n\n\n\n\n\nCloudBees\n\n\nhttps://www.cloudbees.com\n\n\n\n\n\n\n\n\n\n\nContino\n\n\nwww.contino.io\n\n\n\n\n\n\n\n\n\n\nEverString\n\n\nhttps://www.everstring.com/\n\n\n\n\n\n\n\n\n\n\nLooker\n\n\nhttps://looker.com/\n\n\nInternational\n\n\n:-1:\n\n\n\n\n\n\nMINDBODY\n\n\nhttps://www.mindbodyonline.com/\n\n\nInternational\n\n\n\n\n\n\n\n\nO3 World\n\n\nhttp://www.o3world.com/\n\n\nUS East Coast\n\n\n\n\n\n\n\n\nOptomi\n\n\nhttps://optomi.com/\n\n\n\n\n\n\n\n\n\n\nPaxata\n\n\nhttps://www.paxata.com/\n\n\n\n\n\n\n\n\n\n\nPrinciple Solutions Group\n\n\nhttp://www.principlesolutions.com/\n\n\n\n\n\n\n\n\n\n\nREAN Cloud\n\n\nhttps://www.reancloud.com/\n\n\nInternational\n\n\n:+1:\n\n\n\n\n\n\nSpreetail\n\n\nhttp://www.spreetail.com/\n\n\nUS Midwest\n\n\n\n\n\n\n\n\nXentaurs\n\n\nhttps://www.xentaurs.com", 
+            "title": "Home"
         }, 
         {
             "location": "/#awesome-devops-jobs", 
-            "text": "A curated list of awesome DevOps jobs     Name  Website  Region  Remote      Contino  www.contino.io      Xentaurs  https://www.xentaurs.com      CloudBees  https://www.cloudbees.com      MINDBODY  https://www.mindbodyonline.com/  International     TEMPLATE  https://www.example.com  USA  Y", 
+            "text": "A curated list of awesome DevOps jobs     Name  Website  Region  Remote      CloudBees  https://www.cloudbees.com      Contino  www.contino.io      EverString  https://www.everstring.com/      Looker  https://looker.com/  International  :-1:    MINDBODY  https://www.mindbodyonline.com/  International     O3 World  http://www.o3world.com/  US East Coast     Optomi  https://optomi.com/      Paxata  https://www.paxata.com/      Principle Solutions Group  http://www.principlesolutions.com/      REAN Cloud  https://www.reancloud.com/  International  :+1:    Spreetail  http://www.spreetail.com/  US Midwest     Xentaurs  https://www.xentaurs.com", 
             "title": "Awesome DevOps Jobs"
         }, 
         {
-            "location": "/#job-sources", 
-            "text": "https://www.indeed.com/q-Devops-jobs.html  https://www.monster.com/jobs/q-devops-engineer-jobs.aspx  https://www.glassdoor.com/Job/devops-engineer-jobs-SRCH_KO0,15.htm  https://stackoverflow.com/jobs/devops-jobs  https://www.linkedin.com/jobs/devops-jobs  http://www.recruit.net/search-devops-engineer-jobs", 
-            "title": "Job Sources"
+            "location": "/contribute/", 
+            "text": "Contributing\n\n\nYour contributions are always welcome!\n\n\nGuidelines\n\n\n\n\nAdd one link per Pull Request.\n\n\nFill in all fields:Name, Website, Region, Remote\n\n\nWebsite link should look like:\n* [company-name](http://example.com/)\n\n\nOptionally fill out a company profile under /company-profile\n\n\nKeep descriptions concise.\n\n\n\n\n\n\nSearch previous suggestions before making a new one, as yours may be a duplicate.\n\n\nCheck your spelling and grammar.\n\n\nRemove any trailing whitespace.\n\n\nSend a Pull Request with the reason why the company is awesome.", 
+            "title": "Contribute"
+        }, 
+        {
+            "location": "/contribute/#contributing", 
+            "text": "Your contributions are always welcome!", 
+            "title": "Contributing"
+        }, 
+        {
+            "location": "/contribute/#guidelines", 
+            "text": "Add one link per Pull Request.  Fill in all fields:Name, Website, Region, Remote  Website link should look like: * [company-name](http://example.com/)  Optionally fill out a company profile under /company-profile  Keep descriptions concise.    Search previous suggestions before making a new one, as yours may be a duplicate.  Check your spelling and grammar.  Remove any trailing whitespace.  Send a Pull Request with the reason why the company is awesome.", 
+            "title": "Guidelines"
         }
     ]
 }

@@ -4,7 +4,15 @@
     
     <url>
      <loc>https://awesome-devops-jobs.com/</loc>
-     <lastmod>2017-12-16</lastmod>
+     <lastmod>2017-12-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://awesome-devops-jobs.com/contribute/</loc>
+     <lastmod>2017-12-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
